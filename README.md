@@ -12,4 +12,4 @@ Soy Ingeniero Civil Telematico, y me desempeño como Ingeniero de Software Full-
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 ## Encuéntrame en:
-[![LinkedIn](**https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010**)]([https://www.linkedin.com/in/claudiocampuzano](https://www.linkedin.com/in/claudiocampuzano/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudio_Campuzano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/claudiocampuzano](https://www.linkedin.com/in/claudiocampuzano/))
