@@ -16,7 +16,6 @@ Soy Ingeniero Civil Telematico, y me desempeño como Ingeniero de Software Full-
 #### Local Environment
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-bb9372?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ## Curriculum Vitae:
