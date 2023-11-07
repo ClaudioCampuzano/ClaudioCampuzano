@@ -15,3 +15,15 @@ Soy Ingeniero Civil Telematico, y me desempeño como Ingeniero de Software Full-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudio_Campuzano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/claudiocampuzano](https://www.linkedin.com/in/claudiocampuzano/))
 
 ## Curriculum Vitae:
+<object data="https://github.com/ClaudioCampuzano/My-Awesome-CV/raw/master/custom-cv/cv_claudio_campuzano.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/claudiocampuzano/curriculum_vitae/raw/main/download/mai_joel_maximilian_curriculum_vitae.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <br>
+            <a href="https://github.com/ClaudioCampuzano/My-Awesome-CV/raw/master/custom-cv/cv_claudio_campuzano.pdf"         
+               alt="https://github.com/ClaudioCampuzano/My-Awesome-CV/raw/master/custom-cv/cv_claudio_campuzano.pdf">
+                <img alt="https://img.shields.io/badge/Download-FF0000.svg?logo=adobe&logoColor=white" 
+                    src="https://img.shields.io/badge/Download-FF0000.svg?logo=adobe&logoColor=white">
+            </a>
+        </p>
+    </embed>
+</object>
+
