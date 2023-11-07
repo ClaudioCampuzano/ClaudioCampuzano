@@ -13,3 +13,5 @@ Soy Ingeniero Civil Telematico, y me desempeño como Ingeniero de Software Full-
 </br>
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudio_Campuzano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/claudiocampuzano](https://www.linkedin.com/in/claudiocampuzano/))
+
+## Curriculum Vitae:
