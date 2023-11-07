@@ -8,11 +8,10 @@ Soy Ingeniero Civil Telematico, y me desempeño como Ingeniero de Software Full-
 #### Frontend Tools
 
 ![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-68b945?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Backend Tools
 
-![Typoscript](https://img.shields.io/static/v1?style=for-the-badge&message=Typoscript&color=222222&logo=TYPO3&logoColor=FF8700&label=)
+![NodeJS](https://img.shields.io/badge/Node.js-68b945?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Local Environment
 
